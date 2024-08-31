@@ -20,24 +20,6 @@
     - [Checklist](#checklist)
   - [Thank you](#thank-you)
 
-## Don't forget
-
-Everyone begins as a `n00b`, including the [Econia][econia documentation] developers.
-For example, here are 6 of the first 9 commits in the [Econia repository][econia]:
-
-```zsh
-* c34e9a4 Include jupyter notebook demo for tx tutorial
-* 939080d Complete Aptos.dev Move tutorial through step 1
-* 38f997f Complete official Move tutorial
-* 9d4f7b5 Add official Move tutorial through step 6
-* 263cd8b Add move tutorial up to step 5, Magnus6.eth ep. 2
-* 6c2b34d Add AssetCoin move module per official tutorial
-* d8a2f96 Add interface tools per TestCoin transfer tutorial
-```
-
-If ever you get discouraged, just remember there is a vibrant open-source community out there willing to help you on your [Move][move book] journey.
-We are all in this together, and [Move][move book] is for everyone!
-
 ## How to use this guide
 
 This guide contains two major sections:
